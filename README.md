@@ -63,8 +63,8 @@
   <tbody>
     <tr>
       <td>3</td>
-      <td>16</td>
-      <td>19</td>
+      <td>18</td>
+      <td>20</td>
     </tr>
   </tbody>
 </table>
