@@ -64,7 +64,7 @@
     <tr>
       <td>3</td>
       <td>18</td>
-      <td>20</td>
+      <td>22</td>
     </tr>
   </tbody>
 </table>
@@ -81,6 +81,14 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>08/2026</td>
+      <td>Sherlock Audit Engine</td>
+      <td>AerodromeFi</td>
+      <td>Native AMM-style DEX and liquidity marketplace</td>
+      <td>2M, 2L, 1I</td>
+      <td>10th</td>
+    </tr>
     <tr>
       <td>07/2026</td>
       <td>Sherlock</td>
