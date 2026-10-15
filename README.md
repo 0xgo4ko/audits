@@ -33,13 +33,15 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
 | [Summer.fi](https://audits.sherlock.xyz/contests/1176) | Governance | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | 2 M | #6 |
 | [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | Perpetuals | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | 6 H · 7 M · 3 L | #7 |
 | [Clear Macro](https://audits.sherlock.xyz/contests/1263) | Intents | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #8 |
-| [Folks Finance](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top) | Staking | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 1 L | #9 |
+| [Folks Finance](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/information) | Staking | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 1 L | #9 |
 | Aerodrome | DEX | ![Sherlock AE](https://img.shields.io/badge/Sherlock%20AE-111111?style=flat) | 2 M · 2 L · 1 I | #10 |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Staking | ![Code4rena](https://img.shields.io/badge/Code4rena-6515D8?style=flat) | 1 M | #12 |
 | [DRE App](https://audits.sherlock.xyz/contests/1259) | Stablecoin | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #14 |
 | [Tare](https://audits.sherlock.xyz/contests/1234) | Lending | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #16 |
+| [Firelight](https://immunefi.com/audit-competition/audit-comp-firelight-1/information) | Insurance | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 2 H · 1 L | #20 |
 | [TipRun](https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest) | Prediction Market | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | 3 C · 2 H | #24 |
 | [Revert Finance](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview) | AMM | ![Cantina](https://img.shields.io/badge/Cantina-ED791B?style=flat) | 1 H · 1 M | #52 |
+| [ENS](https://immunefi.com/audit-competition/audit-competition-ens/information/) | Naming system on Ethereum | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 2 C · 1 M | #82 |
 | [XRP Ledger](https://audits.sherlock.xyz/contests/1260) | L1 Blockchain | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | 1 M · 1 L | Top 100 |
 
 ---
