@@ -6,7 +6,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
 
 ## Contacts
 
-[Twitter](https://x.com/0xgo4ko) · [Telegram](https://t.me/go4koxyz) · [Discord](https://discord.com/users/750438679222157382)
+[Twitter](https://x.com/0xgo4ko) · [Telegram](https://t.me/go4koxyz)
 
 ## My Work
 
@@ -34,7 +34,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
 | [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | Perpetuals | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | 6 H · 7 M · 3 L | #7 |
 | [Clear Macro](https://audits.sherlock.xyz/contests/1263) | Intents | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #8 |
 | [Folks Finance](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/information) | Staking | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 1 L | #9 |
-| Aerodrome | DEX | ![Sherlock AE](https://img.shields.io/badge/Sherlock%20AE-111111?style=flat) | 2 M · 2 L · 1 I | #10 |
+| [Aerodrome](https://aerodrome.finance/) | DEX | ![Sherlock AE](https://img.shields.io/badge/Sherlock%20AE-111111?style=flat) | 2 M · 2 L · 1 I | #10 |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Staking | ![Code4rena](https://img.shields.io/badge/Code4rena-6515D8?style=flat) | 1 M | #12 |
 | [DRE App](https://audits.sherlock.xyz/contests/1259) | Stablecoin | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #14 |
 | [Tare](https://audits.sherlock.xyz/contests/1234) | Lending | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #16 |
@@ -63,7 +63,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
   <tbody>
     <tr>
       <td>06/2026</td>
-      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td><a href="https://www.pashov.com/">PAG</a></td>
       <td>Triaging</td>
       <td><a href="https://github.com/Se7en-Seas/boring-vault/">Nucleus</a></td>
       <td>Yield</td>
@@ -72,7 +72,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
     </tr>
     <tr>
       <td>06/2026</td>
-      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td><a href="https://www.pashov.com/">PAG</a></td>
       <td>Triaging</td>
       <td><a href="https://github.com/variational-research">Variational</a></td>
       <td>Perpetual</td>
@@ -81,7 +81,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
     </tr>
     <tr>
       <td>06/2026</td>
-      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td><a href="https://www.pashov.com/">PAG</a></td>
       <td>Triaging</td>
       <td><a href="https://github.com/fbtc-xyz/fbtc-contract">FBTC</a></td>
       <td>Bridge</td>
@@ -90,7 +90,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
     </tr>
     <tr>
       <td>06/2026</td>
-      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td><a href="https://www.pashov.com/">PAG</a></td>
       <td>Triaging</td>
       <td><a href="https://usdt0.to/">USDT0</a></td>
       <td>Stablecoin</td>
@@ -99,16 +99,16 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
     </tr>
     <tr>
       <td>06/2026</td>
-      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td><a href="https://www.pashov.com/">PAG</a></td>
       <td>Triaging</td>
-      <td><a href="https://github.com/sky-ecosystem">Sky - Cross-Chain Governance</a></td>
+      <td><a href="https://github.com/sky-ecosystem">Sky</a></td>
       <td>Bridge</td>
       <td>Rust</td>
       <td>Private</td>
     </tr>
     <tr>
       <td>06/2026</td>
-      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td><a href="https://www.pashov.com/">PAG</a></td>
       <td>Triaging</td>
       <td><a href="https://github.com/near/nearcore">Near - VM Runner</a></td>
       <td>Infrastructure</td>
