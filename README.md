@@ -33,6 +33,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
 | [Summer.fi](https://audits.sherlock.xyz/contests/1176) | Governance | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | 2 M | #6 |
 | [0xMarkets](https://hackenproof.com/audit-programs/0xmarkets-audit-contest) | Perpetuals | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | 6 H · 7 M · 3 L | #7 |
 | [Clear Macro](https://audits.sherlock.xyz/contests/1263) | Intents | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #8 |
+| [EverValue Coin (EVA)](https://hackenproof.com/hackers/Invalidatoors?tab=programs) | Bitcoin-backed token | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | private | #8 |
 | [Folks Finance](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/information) | Staking | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 1 L | #9 |
 | [Aerodrome](https://aerodrome.finance/) | DEX | ![Sherlock AE](https://img.shields.io/badge/Sherlock%20AE-111111?style=flat) | 2 M · 2 L · 1 I | #10 |
 | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Staking | ![Code4rena](https://img.shields.io/badge/Code4rena-6515D8?style=flat) | 1 M | #12 |
