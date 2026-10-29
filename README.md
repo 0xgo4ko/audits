@@ -38,8 +38,8 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
 | [EverValue Coin (EVA)](https://hackenproof.com/hackers/Invalidatoors?tab=programs) | Bitcoin-backed token | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | 1 private | #7 |
 | [Folks Finance](https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/information) | Staking | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 1 L | #9 |
 | [Aerodrome](https://aerodrome.finance/) | DEX | ![Sherlock AE](https://img.shields.io/badge/Sherlock%20AE-111111?style=flat) | 2 M · 2 L · 1 I | #10 |
+| [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Staking | ![Code4rena](https://img.shields.io/badge/Code4rena-6515D8?style=flat) | 1 M | #11 |
 | [RAIN-USDR](https://hackenproof.com/audit-programs/rain-usdr-smart-contract-audit-contest-sept-2026?tab=hackers&page=2) | Prediction Market | ![HackenProof](https://img.shields.io/badge/HackenProof-C6D1FF?style=flat) | 6 H · 4 M | #13 |
-| [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) | Staking | ![Code4rena](https://img.shields.io/badge/Code4rena-6515D8?style=flat) | 1 M | #12 |
 | [DRE App](https://audits.sherlock.xyz/contests/1259) | Stablecoin | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #14 |
 | [Tare](https://audits.sherlock.xyz/contests/1234) | Lending | ![Sherlock](https://img.shields.io/badge/Sherlock-111111?style=flat) | --- | #16 |
 | [Firelight](https://immunefi.com/audit-competition/audit-comp-firelight-1/information) | Insurance | ![Immunefi](https://img.shields.io/badge/Immunefi-D71D8C?style=flat) | 2 H · 1 L | #20 |
