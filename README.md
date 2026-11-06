@@ -22,7 +22,7 @@ I actively compete on leading audit platforms through my solo accounts **0xAlipe
 
 ### Public Competitions
 
-**Valid findings:** 3 Critical · 24 High · 26 Medium
+**Valid findings:** 5 Critical · 24 High · 26 Medium
 
 **Contest rankings:** 🥇 1× 1st · 🥈 1× 2nd · 🥉 1× 3rd · 10× Top 10 · 12× Top 15
 
